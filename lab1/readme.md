@@ -171,5 +171,12 @@ Dump) file to display the timing diagrams of the signals.
 Discussion:
 The primary objective of this experiment was to design and simulate a digital system using VHDL within an open-source environment. The transition from a conceptual logic diagram to a hardware description highlighted the unique concurrent nature of VHDL. Unlike sequential software programming, the simulation demonstrated that signals propagate through gates simultaneously, as evidenced by the timing diagrams generated in GTKWave.
 
+
+OUTPUT:
+
+![alt text](image.png)
+
+
+
 Conclusion
 This lab successfully demonstrated the workflow of digital design using VHDL and the open-source toolchain consisting of GHDL and GTKWave.
